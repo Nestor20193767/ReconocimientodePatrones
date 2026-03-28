@@ -58,7 +58,7 @@ El proyecto sigue una metodología de reconocimiento de patrones dividida en cua
 Este proyecto es una colaboración realizada por:
 
   * **Nombre del Autor 1** - [GitHub](https://www.google.com/search?q=https://github.com/usuario1)
-  * **Nombre del Autor 2** - [GitHub](https://www.google.com/search?q=https://github.com/usuario2)
+  * **Marx Christian Ríos Morales** - [GitHub](https://www.google.com/search?q=https://github.com/usuario2)
   * **Nombre del Autor 3** - [GitHub](https://www.google.com/search?q=https://github.com/usuario3)
   * **Nombre del Autor 4** - [GitHub](https://www.google.com/search?q=https://github.com/usuario4)
 
